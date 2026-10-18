@@ -5,7 +5,6 @@ import platform
 import sys
 import json
 import tarfile
-import argparse
 
 epkg_path = sys.argv[1]
 
